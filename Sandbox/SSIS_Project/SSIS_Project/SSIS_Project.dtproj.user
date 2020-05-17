@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataTransformationsUserConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <StartObjectID>3-ConditionalSplit.dtsx</StartObjectID>
+        <Run64BitRuntime>true</Run64BitRuntime>
+        <UserIDs />
+        <UserPasswords />
+        <OfflineMode>false</OfflineMode>
+        <ProgressReporting>true</ProgressReporting>
+        <ParameterConfigurationSensitiveValues>
+          <ConfigurationSetting>
+            <Id>LastModifiedTime</Id>
+            <Name>LastModifiedTime</Name>
+            <Value xsi:type="xsd:dateTime">2020-01-04T07:16:35.5522554Z</Value>
+          </ConfigurationSetting>
+        </ParameterConfigurationSensitiveValues>
+      </Options>
+    </Configuration>
+  </Configurations>
+</DataTransformationsUserConfiguration>
